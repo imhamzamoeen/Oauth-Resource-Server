@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/laravel-oauth-resource-server.git
+git clone
 cd laravel-oauth-resource-server
 Install dependencies:
 
